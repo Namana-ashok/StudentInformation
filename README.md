@@ -1,5 +1,11 @@
-# My First GitHub Repository
+# Student Information
 
-This is my first Git repository.
+A Java-based Student Information program that collects student details
+such as USN and branch using methods, loops, and menu-driven operations.
 
-Created using Git and VS Code.
+## Concepts Used
+- Java
+- Methods
+- Loops
+- Menu-driven programming
+- User input
